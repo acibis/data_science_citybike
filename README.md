@@ -1,5 +1,5 @@
 
-## Step by step data analysis. How are rental bikes used?
+## Step by step data analysis. How are rental bikes used in Katowice?
 
 #### This analysis was done by @DataWorkshop Katowice where I have the honor to play the role of mentor.
 
@@ -14,7 +14,7 @@ where users generally go from and to. The data was downloaded from <b>https://ot
 
 
 In the code:
-- load the 2018 rental data and check basic info (p.ex. the shape of dataframe)
+- load the data and check basic info (p.ex. the shape of dataframe)
 - check the average weekly/monthly rental's number
 - check the average/median time for bikes' rentals
 - check the number of free bikes' rentals (under 15 minutes)
@@ -22,10 +22,6 @@ In the code:
 - check the number and time of rentals for hour intervals
 - check the id of most popular bike (rented the most)
 - check most popular routes (departure-return)
-- show basic plots
-- show the average weekly/monthly rental's number
-- show the average time for bikes' rentals
-- load the 2018 stations data and check basic info (p.ex. the shape of dataframe)
 - check the number of stations available in 2018
 - show the stations and their capacity on a map
 - find most rented bike and check if it visited all possible stations
