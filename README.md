@@ -13,7 +13,7 @@ where users generally go from and to. The data was downloaded from <b>https://ot
 </p>
 
 
-You will here find the info how to:
+In the code:
 - load the 2018 rental data and check basic info (p.ex. the shape of dataframe)
 - check the average weekly/monthly rental's number
 - check the average/median time for bikes' rentals
