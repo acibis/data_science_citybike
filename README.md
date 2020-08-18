@@ -13,7 +13,7 @@ where users generally go from and to. The data was downloaded from <b>https://ot
 </p>
 
 
-[PART 1]
+You will here find the info how to:
 - load the 2018 rental data and check basic info (p.ex. the shape of dataframe)
 - check the average weekly/monthly rental's number
 - check the average/median time for bikes' rentals
@@ -22,9 +22,7 @@ where users generally go from and to. The data was downloaded from <b>https://ot
 - check the number and time of rentals for hour intervals
 - check the id of most popular bike (rented the most)
 - check most popular routes (departure-return)
-
-[PART 2]
-- learn how to show basic plots
+- show basic plots
 - show the average weekly/monthly rental's number
 - show the average time for bikes' rentals
 - load the 2018 stations data and check basic info (p.ex. the shape of dataframe)
